@@ -1,0 +1,25 @@
+# Flutter / Android
+build/
+.android/
+.gradle/
+*.apk
+*.aab
+
+# Dart
+.dart_tool/
+.packages
+.pub-cache/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+.gradle/
+**/.gradle/
+
+
+
